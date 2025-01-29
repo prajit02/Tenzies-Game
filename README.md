@@ -32,6 +32,10 @@ npm run dev
 ```
 Open your browser and navigate to `http://localhost:5173` to see the game in action. This is the default port for Vite.
 
+## Game Screenshot
+Here’s what the game looks like after a victory:
+![Game Win Screenshot](Screenshot/GameWon.png "Game Won")
+
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
 

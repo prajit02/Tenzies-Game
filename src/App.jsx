@@ -91,7 +91,7 @@ function App() {
               {diceComponents}
         </div>
         <button onClick = {rollDice} id = "rollDice">{gameWon ? "New Game" : "Roll"}</button>
-        <p>Old Min Time: {minTime/1000} seconds <br/> Current time: {time/1000} seconds</p>
+        <p>Least Recorded time: {minTime/1000} seconds <br/> Current time: {time/1000} seconds</p>
       </div>
     </>
   )
